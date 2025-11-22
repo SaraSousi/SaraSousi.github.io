@@ -108,7 +108,7 @@ work:
     date_end: 2026-01-01
     summary: |
       Conducted comprehensive statistical analyses and computational modeling for various research projects within the department. Co-authored 10+ papers.
- - position: Strategy Consultant - Data Science
+  - position: Strategy Consultant - Data Science
     company_name: EY Parthenon
     company_url: '[https://www.imperial.ac.uk/msk-lab/](https://www.ey.com/en_uk/services/strategy-transactions/valuation-modeling-economics)'
     icon: ''
@@ -116,7 +116,7 @@ work:
     date_end: 2023-04-01
     summary: |2-
       Only consultant to promote early in the history of the team. Part of the value of data team, where I opened a new revenue stream for a health exchange information entity in the MENA region due to a research piece linking population health and dental data. Created an automated reporting tool for NHS England’s using web scraping which updates monthly and provides insight of the latest elective and non-elective activity, using publicly available data. This aided in the targeted approaches for existing and new clients and for live engagements. Dashboard was requested to be purchased by multiple clients.
- - position: Honorary Research Fellow - Statistician
+  - position: Honorary Research Fellow - Statistician
     company_name: King's Health Partners, KCL
     company_url: 'https://www.kingshealthpartners.org/'
     icon: ''
