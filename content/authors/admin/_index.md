@@ -5,7 +5,7 @@ title: Sara Sousi
 # Name pronunciation (optional)
 name_pronunciation: ''
 
-# Full name (for SEO)
+# Full name (for SEO) 
 first_name: Sara
 last_name: Sousi
 
