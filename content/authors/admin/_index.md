@@ -53,13 +53,13 @@ interests:
   - Digital Health
 
 education:
-  - area: PhD Clinical Medical Research - Artificial Intelligence and Digital Health
+  - area: PhD Clinical Medical Research - AI and Digital Health
     institution: Imperial College London
     icon: ""
     date_start: 2025-04-10
     date_end: 2028-04-10
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof the Lord Ara Darzi, Dr Ana Luisa Neves. P
+      Thesis on _Impact of Remote Care in GDM_. Supervised by Prof the Lord Ara Darzi and Dr Ana Luisa Neves.
     <>button:
       <>text: 'Read Thesis'
       <>url: 'https://example.com/thesis.pdf'
@@ -87,9 +87,9 @@ work:
     date_start: 2024-08-01
     date_end: ''
     summary: |2-
-      Analysed UK Biobank dataset and accelerometer data to identify patient trajectories in lower limb arthroplasty
-      Employed advanced statistical techniques and machine learning to derive actionable insights from over 500GB of data
-      Mapped population-scale insights using Clinical Practice Research Datalink (CPRD), impacting patient care strategies for elective arthroplasty using ML
+      Analysed UK Biobank dataset and accelerometer data to identify patient trajectories in lower limb arthroplasty.
+      Employed advanced statistical techniques and machine learning to derive actionable insights from over 500GB of data.
+      Mapped population-scale insights using Clinical Practice Research Datalink (CPRD), impacting patient care strategies for elective arthroplasty using ML.
   - position: Honorary Research Fellow - Statistician
     company_name: UCL
     company_url: 'https://ucl.ac.uk/'
