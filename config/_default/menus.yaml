@@ -10,11 +10,11 @@ main:
   - name: CV
     url: experience/
     weight: 20
-  - name: Publications
-    url: publications/
+  - name: Paper
+    url: papers/
     weight: 11
   # - name: Talks
-  #   url: /#talks
+  #   url: /talks
   #   weight: 12
   - name: News
     url: /news
